@@ -8,4 +8,5 @@ some text
 some description
 
 ## sub-heading3
-some heading
+some description
+
